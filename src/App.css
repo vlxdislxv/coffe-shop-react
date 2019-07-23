@@ -1,0 +1,17 @@
+body {
+  background-image: url("img/Background.jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  font-size: 100px;
+  font-weight: 600;
+}
+
+p {
+  color: white;
+  font-size: 30px
+}

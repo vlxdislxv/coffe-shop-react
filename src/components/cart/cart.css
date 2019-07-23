@@ -1,0 +1,12 @@
+.cart-link {
+    text-underline: none;
+    text-underline-mode: none;
+    color: black;
+    height: 60px;
+    width: 120px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+}
